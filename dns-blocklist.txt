@@ -55,7 +55,8 @@
 
 !Other
 ||ads.reddit.com^
-
+||advertising.twitter.com^
+||ads-dev.pinterest.com^
 ||widgets.pinterest.com^
 ||yandex.ru^
 ||adcolony.com^
