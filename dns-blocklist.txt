@@ -35,6 +35,8 @@
 !Facebook
 ||b-graph.facebook.com^
 ||graph.facebook.com^
+||ads.facebook.com^
+
 
 !Apple
 ||advertising.apple.com^
@@ -44,7 +46,16 @@
 ||pushx.reolink.com^
 ||p2p.reolink.com^
 
+!Bugsnag
+||notify.bugsnag.com^
+||sessions.bugsnag.com^
+||api.bugsnag.com^
+||app.bugsnag.com^
+
+
 !Other
+||ads.reddit.com^
+
 ||widgets.pinterest.com^
 ||yandex.ru^
 ||adcolony.com^
@@ -54,3 +65,4 @@
 ||adc3-launch.adcolony.com^
 ||browser.sentry-cdn.com^
 ||fireoscaptiveportal.com^
+media.net
