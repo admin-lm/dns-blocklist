@@ -1,3 +1,11 @@
 !Reolink
 ||pushx.reolink.com^
 ||p2p.reolink.com^
+
+||ads.tiktok.com^
+||business-api.tiktok.com^
+||ads-sg.tiktok.com^
+||ads-api.tiktok.com^
+||udcm.yahoo.com^
+||log.fc.yahoo.com^
+||click.googleanalytics.com^
